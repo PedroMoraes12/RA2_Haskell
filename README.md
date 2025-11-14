@@ -1,5 +1,3 @@
-READ.ME =
-
 # Sistema de Inventário em Haskell
 
 Este projeto implementa um sistema de gerenciamento de inventário via terminal (CLI), desenvolvido como Atividade Avaliativa da disciplina de Programação Lógica e Funcional. O sistema utiliza conceitos de programação funcional pura para lógica de negócios, separando-a das operações de I/O e persistência de dados.
